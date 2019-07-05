@@ -109,4 +109,4 @@ fi
 
 set -o ignoreeof
 alias matlab='matlab -nodisplay -nosplash'
-export GPG_TTY=$(tty)
+GPG_TTY=$(tty)
