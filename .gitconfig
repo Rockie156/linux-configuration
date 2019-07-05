@@ -10,3 +10,6 @@
 	gpgsign = true
 [gpg]
 	program = gpg2
+[core]
+        editor = vim
+        autocrlf = true
