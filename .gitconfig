@@ -1,15 +1,10 @@
 [user]
 	name = Saffat Hasan
 	email = saffathasan@gmail.com
-	signingkey = FC2CB9F384B118E37BBEEB6FB76A15B05EB886AF
 [push]
 	default = simple
 [credential]
 	helper = cache
-[commit]
-	gpgsign = true
-[gpg]
-	program = gpg
 [core]
-        editor = vim
-        autocrlf = true
+    editor = vim
+    autocrlf = true
